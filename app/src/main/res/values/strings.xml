@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">startone</string>
+    <string name="nobile_no">nobile no.</string>
+    <string name="mobile_no">mobile no.</string>
+    <string name="book">book</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">SEND</string>
+    <string name="retrieve_data">Retrieve Data</string>
+</resources>
