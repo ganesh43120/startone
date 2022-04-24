@@ -7,4 +7,5 @@
     <string name="enter_message">Enter message</string>
     <string name="send">SEND</string>
     <string name="retrieve_data">Retrieve Data</string>
+    <string name="current_level_of_gas">current level of gas</string>
 </resources>
